@@ -1,0 +1,57 @@
+== Acer A500 Iconia Tab ==
+
+=== General Description ===
+{|
+|+ Basic Description
+|-
+! Technology
+! Released
+! Status
+! Dimensions
+! Weight
+! Battery
+
+|-
+| No Cellular Connectivity
+| April 2011
+| Discontinued
+| 260 x 177 x 13.3 mm (10.24 x 6.97 x 0.52 in)
+| 730 g (1.61 lb)
+| Non-removable Li-Po 3260 mAh battery
+|}
+
+{|
+|+ Accessibility
+|-
+! WLAN
+! Bluetooth
+! GPS
+! Radio
+! USB
+! Messaging
+! Browser
+! Features
+
+|-
+| Wi-Fi 802.11 b/g/n, hotspot
+| 2.1, A2DP, EDR
+| Yes
+| No
+| microUSB 2.0, USB 2.0
+| No
+| HTML, Adobe Flash
+| HDMI Port; MP3/WAV/WMA/eAAC+ player; XciD/MP4/H.264/Organizer/Document Viewer/Predictive Text Input
+|}
+
+=== Results ===
+{|
+|-
+! ATF
+! XRY
+! UFED
+
+|-
+| Not Tested
+| Not Tested
+| Yes [[Acer A500 Iconia Tab UFED Results]]
+|}
