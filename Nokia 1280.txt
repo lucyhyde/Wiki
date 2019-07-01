@@ -1,0 +1,57 @@
+== Nokia 1280(RM-647) ==
+
+=== General Description ===
+{|
+|+ Basic Description
+|-
+! Technology
+! Released
+! Status
+! Dimensions
+! Weight
+! Battery
+
+|-
+| GSM
+| March 2010
+| Discontinued
+| 107.2 x 45.1 x 15.3 mm, 62.3 cc (4.22 x 1.78 x 0.60 in)
+| 81.9 g (2.86 oz)
+| Removable Li-Ion 800 mAh battery (BL-5CB)
+|}
+
+{|
+|+ Accessibility
+|-
+! WLAN
+! Bluetooth
+! GPS
+! Radio
+! USB
+! Messaging
+! Browser
+! Games
+
+|-
+| No
+| No
+| No
+| FM Radio
+| No
+| SMS
+| No
+| Yes
+|}
+
+=== Results ===
+{|
+|-
+! ATF
+! XRY
+! UFED
+
+|-
+| Yes [[Nokia 1280 ATF Results]]
+| Yes [[Nokia 1280 XRY Results]]
+| Yes [[Nokia 1280 UFED Results]]
+|}

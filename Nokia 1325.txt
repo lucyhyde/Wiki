@@ -1,0 +1,57 @@
+== Nokia 1325(RH-104) ==
+
+=== General Description ===
+{|
+|+ Basic Description
+|-
+! Technology
+! Released
+! Status
+! Dimensions
+! Weight
+! Battery
+
+|-
+| GSM
+| 2006
+| Discontinued
+| 104 x 42.7 x 15.2 mm, vol. 67 cm³
+| 71 g
+| Removable Li-Ion 700 mAh battery (BL-5CA)
+|}
+
+{|
+|+ Accessibility
+|-
+! WLAN
+! Bluetooth
+! GPS
+! Radio
+! USB
+! Messaging
+! Browser
+! Games
+
+|-
+| No
+| No
+| No
+| No
+| No
+| SMS
+| No
+| Yes
+|}
+
+=== Results ===
+{|
+|-
+! ATF
+! XRY
+! UFED
+
+|-
+| Yes [[Nokia 1325 ATF Results]]
+| Yes [[Nokia 1325 XRY Results]]
+| Yes [[Nokia 1325 UFED Results]]
+|}
