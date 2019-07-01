@@ -1,0 +1,52 @@
+== Using Flasher Boxes: Volcano ==
+
+Volcano supports most operating systems such as Android, Windowns, Bada (Samsung), Blackberry iPhone, MeeGo, Garnet etc.
+It also supports most common platforms such as Spreadtrum (SPD), MediaTek (MTK), Coolsand_RDA, Anyka, MSTAR, Infineon
+Functions include:
+* read phone information
+* read/write flash (even of dead set)
+* password read/reset/replace/remove
+* unlock codes/pattern unlock
+* country unlock
+* read/repair IMEI
+* baseband repaire/baseband & IMEI null solution
+* autoformat/safety format/custom format/address format
+* repair signal/software
+* barcode decryption
+* read/write/backup NV
+
+''' Steps for Use '''
+{|
++ Volcano Tool - MSTAR
+| 1. Connect Volcano to user computer
+| 2. Ensure box is connected to software
+| 3. Connect selected device to Volcano
+| 4. Select '''Detect''' tab
+| 5. If ''auto-detect'' selection was used, chipset will be listed in the log (right side of program)
+| 6. Once pinout is identified, select '''Set Pinout'''
+| 7. One pinout is set, select tab for correct chipset (left side of program)
+| 8. Select '''Read Flash''' to extract a flash dump from device. '''''Do not selected WriteFlash or Format'''''
+| 9. Deselect '''Auto-Detect Pinouts''' if pinout was successfully identified and set during device detection.
+| 10. Select '''Run'''
+| 11. When extraction is complete, a '''Save As...''' window will appear
+| 12. Select location to save binary file.
+| 13. When complete, the flash dump will save to identified directory.
+|}
+
+{|
++ Volcano Utility - MSTAR
+| 1. Connect Volcano to user computer
+| 2. Ensure box is connected to software
+| 3. Connect selected device to Volcano
+| 4. Select '''Detect''' tab
+| 5. If  chipset is unknown, use ''auto-detect'' selection from '''Type Dropdown Menu'''
+| 5a. If chipset is known, select correct item
+| 6. If ''auto-detect'' was used, chipset will be listed in log (bottom of program)
+| 7. Once pinout is identified, select '''Set Pinout'''
+| 8. One pinout is set, select correct chipset from '''CPU & OS'''
+| 9. Select '''Read Flash''' to extract a flash dump from device. '''''Do not selected WriteFlash or Format'''''
+| 10. Deselect '''Auto-Detect Pinouts''' if pinout was successfully identified and set during device detection.
+| 11. Select '''Start'''
+| 12. When extraction is complete, a '''Save As...''' window will appear
+| 13. Select location to save binary file.
+| 14. When complete, the flash dump will save to identified directory.
