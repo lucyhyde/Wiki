@@ -1,0 +1,59 @@
+== Acer	C6 Liquid Express ==
+
+=== General Description ===
+{|
+|+ Basic Description
+|-
+! Technology
+! Released
+! Status
+! Dimensions
+! Weight
+! Battery
+
+|-
+| No Cellular Connectivity
+| November 2011
+| Discontinued
+| 60.8 x 115 millimeters (2.39 x 4.53 in)
+| 138 grams (4.83 ounces)
+| Removable Li-Ion 1300 mAh battery
+|}
+
+{|
+|+ Accessibility
+|-
+! WLAN
+! Bluetooth
+! GPS
+! Radio
+! USB
+! Messaging
+! Browser
+! Chipset
+! Features
+
+|-
+| Wi-Fi 802.11 b/g/n, hotspot
+| 2.1, A2DP
+| A-GPS, GeoTagging
+| FM with RDS
+| microUSB 2.0
+| SMS (T9), MMS, E-mail, Push mail
+| HTML, XHTML
+! 32bit - Qualcomm Snapdragon S1 MSM7227 Turbo (65nm)
+| HDMI Port; MP3/WAV/WMA/eAAC+ player; MP4/H.263/H.264/WMV
+|}
+
+=== Results ===
+{|
+|-
+! ATF
+! XRY
+! UFED
+
+|-
+| Not Tested
+| Not Tested
+| Yes [[Acer C6 Liquid Express UFED Results]]
+|}

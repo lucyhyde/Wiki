@@ -1,0 +1,48 @@
+== Using Flasher Boxes: GPG Dragon ==
+
+GPG Dragon was created for Chinese phones, to unlock/service/flash with a built-in pinfinder.
+GPG Dragon supports: 
+* read/write flash with MTK, Spreadtrum, NXP, Infineon, Qualcomm, Silabs, Anyka, ADi, SKY CPU-based phones
+* read simlock code
+* IMEI repair/change
+* repair Touch Screen
+* format settings
+* eport phone book from death phones (after read flash) to a known format/storage on PC
+* automatic pinfinder module to find Rx/Tx on XTE Huawei/China phones
+* automatic software upgrade
+
+''' Steps for Use '''
+{|
++ '''Old Device/Software'''
+| 1. Connect GPG Dragon to users computer and ensure box is connected to software
+| 2. Ensure that the COM Port is set correctly
+| 3. Select '''Connect'''
+| 4. Connect device to GPG Dragon 
+| 5. Select correct chipset under '''Chips'''
+| 6. Select '''ReadFlash''' to extract a flash dump from connected device. '''''Do not selected WriteFlash or Format'''''
+| 7. Select the '''...''' button under '''Flash File''' and specific a directory to save the binary file.
+| 8. Select '''Start'''
+| 9. When complete, the flash dump will save to identified directory.
+|}
+
+{|
++ '''Current Device/Software'''
+| 1. Connect GPG Dragon to users computer and ensure box is connected to software
+| 2. Ensure that the COM Port is set correctly
+| 3. Select '''CheckBox'''
+| 4. Connect device to GPG Dragon 
+| 5. Select tab for correct chipset for the device.
+| 6. Select '''ReadFlash''' to extract a flash dump from connected device. '''''Do not selected WriteFlash or Format'''''
+| 7. Select the '''...''' button under '''Flash File''' and specific a directory to save the binary file.
+| 8. Select '''Start'''
+| 9. When complete, the flash dump will save to identified directory.
+|}
+
+{|
++ '''How to Check the COM Port'''
+| 1. Ensure the flasher box is connected to the computer
+| 2. Select Windows '''Start'''
+| 3. Type '''Device Manager''' into the ''Search'' Bar
+| 4. Open '''Device Manager'''
+| 5. Select '''Ports (COM & LPT)'''
+| 6. Identify the port connected to '''Prolific USB-Serial Comm Port'''

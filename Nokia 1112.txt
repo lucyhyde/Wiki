@@ -1,0 +1,57 @@
+== Nokia 1112(RH-93) ==
+
+=== General Description ===
+{|
+|+ Basic Description
+|-
+! Technology
+! Released
+! Status
+! Dimensions
+! Weight
+! Battery
+
+|-
+| GSM
+| March 2006
+| Discontinued
+| 104 x 44 x 17 mm (4.09 x 1.73 x 0.67 in)
+| 80 g (2.82 oz)
+| Removable Li-Ion 700 mAh battery (BL-5CA)
+|}
+
+{|
+|+ Accessibility
+|-
+! WLAN
+! Bluetooth
+! GPS
+! Radio
+! USB
+! Messaging
+! Browser
+! Games
+
+|-
+| No
+| No
+| No
+| No
+| No
+| SMS, EMS
+| No
+| Yes (3 Embedded)
+|}
+
+=== Results ===
+{|
+|-
+! ATF
+! XRY
+! UFED
+
+|-
+| No. There is no supported JIG for the Nokia 1112.
+| Yes [[Nokia 1280 XRY Results]]
+| Yes [[Nokia 1280 UFED Results]]
+|}
