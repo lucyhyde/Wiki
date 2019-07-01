@@ -1,0 +1,59 @@
+== Acer Liquid Mini E310 ==
+
+=== General Description ===
+{|
+|+ Basic Description
+|-
+! Technology
+! Released
+! Status
+! Dimensions
+! Weight
+! Battery
+
+|-
+| GSM/HSPA
+| January 2011
+| Discontinued
+| 110.4 x 57.5 x 13 mm (4.35 x 2.26 x 0.51 in)
+| 108 g (3.81 oz)
+| Removable Li-Ion 1300 mAh battery
+|}
+
+{|
+|+ Accessibility
+|-
+! WLAN
+! Bluetooth
+! GPS
+! Radio
+! USB
+! Messaging
+! Browser
+! Chipset
+! Features
+
+|-
+| Wi-Fi 802.11 b/g, DLNA, hotspot
+| 2.1, A2DP, EDR
+| A-GPS
+| Stereo FM, RDS
+| microUSB 2.0
+| SMS (T9), MMS, E-mail, Push Mail
+| HTML
+! Qualcomm MSM7227-1 Snapdragon S1
+| HDMI Port; MP3/WAV/WMA/eAAC+ player; MP4/H.264/WMV, Document Viewer, Predictive text
+|}
+
+=== Results ===
+{|
+|-
+! ATF
+! XRY
+! UFED
+
+|-
+| Not Tested
+| Not Tested
+| Yes [[Acer Liquid Mini E310 UFED Results]]
+|}
