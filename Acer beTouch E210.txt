@@ -1,0 +1,59 @@
+== Acer beTouch E210 ==
+
+=== General Description ===
+{|
+|+ Basic Description
+|-
+! Technology
+! Released
+! Status
+! Dimensions
+! Weight
+! Battery
+
+|-
+| GSM
+| January 2011
+| Discontinued
+| 116 x 63 x 12 mm (4.57 x 2.48 x 0.47 in)
+| 109 g (3.84 oz)
+| Removable Li-Ion 1300 mAh battery
+|}
+
+{|
+|+ Accessibility
+|-
+! WLAN
+! Bluetooth
+! GPS
+! Radio
+! USB
+! Messaging
+! Browser
+! Chipset
+! Features
+
+|-
+| Wi-Fi 802.11 b/g, hotspot
+| 2.1, A2DP, EDR
+| A-GPS
+| Stereo FM
+| microUSB 2.0
+| SMS, MMS, E-mail, Instant Message
+| HTML
+! Qualcomm MSM7227 Snapdragon S1
+| HDMI Port; MP3/WAV/WMA/eAAC+ player; MP4/H.264/WMV, Predictive text
+|}
+
+=== Results ===
+{|
+|-
+! ATF
+! XRY
+! UFED
+
+|-
+| Not Tested
+| Not Tested
+| Yes [[Acer beTouch E210 UFED Results]]
+|}

@@ -1,0 +1,59 @@
+== Acer beTouch E101 ==
+
+=== General Description ===
+{|
+|+ Basic Description
+|-
+! Technology
+! Released
+! Status
+! Dimensions
+! Weight
+! Battery
+
+|-
+| GSM
+| October 2009
+| Discontinued
+| 113 x 56 x 12.8 mm (4.45 x 2.20 x 0.50 in)
+| 118 g (4.16 oz)
+| Removable Li-Ion 1140 mAh battery
+|}
+
+{|
+|+ Accessibility
+|-
+! WLAN
+! Bluetooth
+! GPS
+! Radio
+! USB
+! Messaging
+! Browser
+! Chipset
+! Features
+
+|-
+| No
+| 2.0, A2DP
+| A-GPS
+| No
+| miniUSB 2.0
+| SMS, MMS, E-mail
+| HTML
+! Qualcomm MSM7225 Snapdragon S1
+| HDMI Port; MP3/WAV/WMA/eAAC+ player; MP4/H.264/WMV, Predictive text
+|}
+
+=== Results ===
+{|
+|-
+! ATF
+! XRY
+! UFED
+
+|-
+| Not Tested
+| Not Tested
+| Yes [[Acer beTouch E101 UFED Results]]
+|}

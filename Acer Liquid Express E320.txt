@@ -1,0 +1,59 @@
+== Acer Liquid Express E320 ==
+
+=== General Description ===
+{|
+|+ Basic Description
+|-
+! Technology
+! Released
+! Status
+! Dimensions
+! Weight
+! Battery
+
+|-
+| GSM/HSPA
+| November 2011
+| Discontinued
+| 115 x 60.8 x 13.4 mm (4.53 x 2.39 x 0.53 in)
+| 138 g (4.87 oz)
+| Removable Li-Ion 1300 mAh battery
+|}
+
+{|
+|+ Accessibility
+|-
+! WLAN
+! Bluetooth
+! GPS
+! Radio
+! USB
+! Messaging
+! Browser
+! Chipset
+! Features
+
+|-
+| Wi-Fi 802.11 b/g, DLNA, hotspot
+| 2.1, A2DP, EDR
+| A-GPS
+| Stereo FM, RDS
+| microUSB 2.0
+| SMS (T9), MMS, E-mail, Push Mail
+| HTML
+! Qualcomm MSM7227T-1 Snapdragon S1
+| HDMI Port; MP3/WAV/WMA/eAAC+ player; MP4/H.264/WMV, Document Viewer, Predictive text
+|}
+
+=== Results ===
+{|
+|-
+! ATF
+! XRY
+! UFED
+
+|-
+| Not Tested
+| Not Tested
+| Yes [[Acer Liquid Express E320 UFED Results]]
+|}
