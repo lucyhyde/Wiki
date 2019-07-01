@@ -1,0 +1,57 @@
+== Nokia 1202(RH-112) ==
+
+=== General Description ===
+{|
+|+ Basic Description
+|-
+! Technology
+! Released
+! Status
+! Dimensions
+! Weight
+! Battery
+
+|-
+| GSM
+| April 2009
+| Discontinued
+| 105.3 x 45 x 13.1 mm, 61.8 cc (4.15 x 1.77 x 0.52 in)
+| 78 g (2.75 oz)
+| Removable Li-Ion 720 mAh battery (BL-4C)
+|}
+
+{|
+|+ Accessibility
+|-
+! WLAN
+! Bluetooth
+! GPS
+! Radio
+! USB
+! Messaging
+! Browser
+! Games
+
+|-
+| No
+| No
+| No
+| No
+| No
+| SMS
+| No
+| No
+|}
+
+=== Results ===
+{|
+|-
+! ATF
+! XRY
+! UFED
+
+|-
+| Yes [[Nokia 1202 ATF Results]]
+| Yes [[Nokia 1202 XRY Results]]
+| Yes [[Nokia 1202 UFED Results]]
+|}

@@ -1,0 +1,57 @@
+== Nokia 1208(RH-105) ==
+
+=== General Description ===
+{|
+|+ Basic Description
+|-
+! Technology
+! Released
+! Status
+! Dimensions
+! Weight
+! Battery
+
+|-
+| GSM
+| May 2007
+| Discontinued
+| 102 x 44.1 x 17.5 mm, 67 cc (4.02 x 1.74 x 0.69 in)
+| 77 g (2.72 oz)
+| Removable Li-Ion 700 mAh battery (BL-5CA)
+|}
+
+{|
+|+ Accessibility
+|-
+! WLAN
+! Bluetooth
+! GPS
+! Radio
+! USB
+! Messaging
+! Browser
+! Games
+
+|-
+| No
+| No
+| No
+| No
+| No
+| SMS
+| No
+| Yes (3 Embedded)
+|}
+
+=== Results ===
+{|
+|-
+! ATF
+! XRY
+! UFED
+
+|-
+| No. There is no supported JIG for the Nokia 1208.
+| Yes [[Nokia 1280 XRY Results]]
+| Yes [[Nokia 1280 UFED Results]]
+|}
